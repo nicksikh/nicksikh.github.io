@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: peru;
+    padding: 10px;
+}
+.bob {
+    color: palevioletred
+}
+body {
+    background-image: url("lala.jpg");
+}
+.secret {
+    background-color: rgb(252, 0, 0);
+    color: black;
+    font-size: 30pt;
+    
+}
